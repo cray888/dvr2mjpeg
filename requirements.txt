@@ -1,0 +1,5 @@
+aiofiles==0.4.0
+av
+Pillow
+Flask~=1.1
+markupsafe==2.0.1
